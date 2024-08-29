@@ -1,6 +1,6 @@
 # Hey, Kunal here <img src="https://media.tenor.com/Duk1hRXLi38AAAAi/long-livethe-blob-eyes-rolling.gif" width="50" height="50" alt="emoji"/>
 
-I am a Mechanical engineer with expertise in Artificial Intelligence, Machine Learning, and Python. Seeking a challenging role in data science to apply acquired skills and knowledge in real life.
+I am a Mechanical engineer with expertise in Data Analytics, Artificial Intelligence, Machine Learning, and Python. Seeking a challenging role in data field to apply acquired skills and knowledge in real life.
 
 <img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
 
