@@ -4,7 +4,7 @@ I am a Mechanical engineer with expertise in Data Analytics, Artificial Intellig
 
 <img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
 
-## :star: Data Tools
+## :star: Languages & Tools:
 ***
 <p align="left"> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" width="40" height="40" alt="excel"/>
