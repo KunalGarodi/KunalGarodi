@@ -4,6 +4,8 @@
 
 I’m a Mechanical Engineer turned Data Professional with hands-on experience in Data Analytics, Artificial Intelligence, Machine Learning, and Python. I specialize in transforming raw business data into actionable insights, automated workflows, and decision-ready dashboards.
 
+<img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
+
 My work blends analytics + business problem solving, with strong focus areas in:
 
 - 📊 Data Analytics & Business Intelligence
@@ -23,8 +25,6 @@ I enjoy solving real-world business problems in domains like inventory optimizat
 Currently, I’m focused on building impactful projects at the intersection of Data + AI + Supply Chain, while continuously sharing learnings through LinkedIn, GitHub, and YouTube content.
 
 💡 Open to challenging opportunities in Data Analytics, Business Intelligence, and AI-driven problem solving where I can create measurable business impact.
-
-<img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
 
 ## :star: Languages & Tools:
 ***
