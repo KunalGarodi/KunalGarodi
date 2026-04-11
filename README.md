@@ -8,15 +8,15 @@ My work blends analytics + business problem solving, with strong focus areas in:
 
 - 📊 Data Analytics & Business Intelligence
 
-🤖 AI / Machine Learning Applications
+- 🤖 AI / Machine Learning Applications
 
-🐍 Python Automation & Predictive Modeling
+- 🐍 Python Automation & Predictive Modeling
 
-📦 Supply Chain & Operations Analytics
+- 📦 Supply Chain & Operations Analytics
 
-📈 Dashboarding with Power BI & Excel
+- 📈 Dashboarding with Power BI & Excel
 
-🗄️ SQL-based Data Transformation & Reporting
+- 🗄️ SQL-based Data Transformation & Reporting
 
 I enjoy solving real-world business problems in domains like inventory optimization, sales analytics, EV market intelligence, supplier communication workflows, and email response analytics.
 
