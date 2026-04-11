@@ -6,7 +6,7 @@ I’m a Mechanical Engineer turned Data Professional with hands-on experience in
 
 My work blends analytics + business problem solving, with strong focus areas in:
 
-📊 Data Analytics & Business Intelligence
+- 📊 Data Analytics & Business Intelligence
 
 🤖 AI / Machine Learning Applications
 
