@@ -1,12 +1,28 @@
 # Hey, I'm Kunal Garodi <img src="https://media.tenor.com/Duk1hRXLi38AAAAi/long-livethe-blob-eyes-rolling.gif" width="50" height="50" alt="emoji"/>
 
-I am a Mechanical engineer with expertise in Data Analytics, Artificial Intelligence, Machine Learning, and Python. Seeking a challenging role in data field to apply acquired skills and knowledge in real life.
-
 🚀 Data Analyst | AI & Machine Learning Enthusiast | Python Developer | Supply Chain Analytics Explorer
 
-I’m a Mechanical Engineer turned Data Professional with hands-on experience in Data Analytics, Artificial Intelligence, Machine Learning, Python, and Business Intelligence.
+I’m a Mechanical Engineer turned Data Professional with hands-on experience in Data Analytics, Artificial Intelligence, Machine Learning, and Python. I specialize in transforming raw business data into actionable insights, automated workflows, and decision-ready dashboards.
 
-I love converting raw business data into actionable insights, dashboards, automation workflows, and predictive solutions that solve real-world business challenges.
+My work blends analytics + business problem solving, with strong focus areas in:
+
+📊 Data Analytics & Business Intelligence
+
+🤖 AI / Machine Learning Applications
+
+🐍 Python Automation & Predictive Modeling
+
+📦 Supply Chain & Operations Analytics
+
+📈 Dashboarding with Power BI & Excel
+
+🗄️ SQL-based Data Transformation & Reporting
+
+I enjoy solving real-world business problems in domains like inventory optimization, sales analytics, EV market intelligence, supplier communication workflows, and email response analytics.
+
+Currently, I’m focused on building impactful projects at the intersection of Data + AI + Supply Chain, while continuously sharing learnings through LinkedIn, GitHub, and YouTube content.
+
+💡 Open to challenging opportunities in Data Analytics, Business Intelligence, and AI-driven problem solving where I can create measurable business impact.
 
 <img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
 
