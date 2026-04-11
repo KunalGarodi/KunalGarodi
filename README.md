@@ -2,9 +2,9 @@
 
 🚀 **Data Analyst | AI & Machine Learning Enthusiast | Python Developer | Supply Chain Analytics Explorer**
 
-<img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
-
 I’m a Mechanical Engineer turned Data Professional with hands-on experience in Data Analytics, Artificial Intelligence, Machine Learning, and Python. I specialize in transforming raw business data into actionable insights, automated workflows, and decision-ready dashboards.
+
+<img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
 
 My work blends analytics + business problem solving, with strong focus areas in:
 
