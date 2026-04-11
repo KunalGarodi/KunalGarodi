@@ -1,6 +1,12 @@
-# Hey, Kunal here <img src="https://media.tenor.com/Duk1hRXLi38AAAAi/long-livethe-blob-eyes-rolling.gif" width="50" height="50" alt="emoji"/>
+# Hey, I'm Kunal Garodi <img src="https://media.tenor.com/Duk1hRXLi38AAAAi/long-livethe-blob-eyes-rolling.gif" width="50" height="50" alt="emoji"/>
 
 I am a Mechanical engineer with expertise in Data Analytics, Artificial Intelligence, Machine Learning, and Python. Seeking a challenging role in data field to apply acquired skills and knowledge in real life.
+
+🚀 Data Analyst | AI & Machine Learning Enthusiast | Python Developer | Supply Chain Analytics Explorer
+
+I’m a Mechanical Engineer turned Data Professional with hands-on experience in Data Analytics, Artificial Intelligence, Machine Learning, Python, and Business Intelligence.
+
+I love converting raw business data into actionable insights, dashboards, automation workflows, and predictive solutions that solve real-world business challenges.
 
 <img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
 
