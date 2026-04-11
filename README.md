@@ -1,6 +1,6 @@
 # Hey, I'm Kunal Garodi <img src="https://media.tenor.com/Duk1hRXLi38AAAAi/long-livethe-blob-eyes-rolling.gif" width="50" height="50" alt="emoji"/>
 
-🚀 Data Analyst | AI & Machine Learning Enthusiast | Python Developer | Supply Chain Analytics Explorer
+🚀 **Data Analyst | AI & Machine Learning Enthusiast | Python Developer | Supply Chain Analytics Explorer**
 
 <img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
 
@@ -23,8 +23,6 @@ My work blends analytics + business problem solving, with strong focus areas in:
 I enjoy solving real-world business problems in domains like inventory optimization, sales analytics, EV market intelligence, supplier communication workflows, and email response analytics.
 
 Currently, I’m focused on building impactful projects at the intersection of Data + AI + Supply Chain, while continuously sharing learnings through LinkedIn, GitHub, and YouTube content.
-
-💡 Open to challenging opportunities in Data Analytics, Business Intelligence, and AI-driven problem solving where I can create measurable business impact.
 
 ## :star: Languages & Tools:
 ***
